@@ -1,1 +1,1 @@
-# QPhotonics
+# QuPhotonics
