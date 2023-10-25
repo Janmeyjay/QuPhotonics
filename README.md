@@ -1,2 +1,2 @@
 # QuPhotonics
-soon to be uploaded
+soon to be updated
